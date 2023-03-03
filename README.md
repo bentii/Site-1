@@ -1,2 +1,3 @@
 # Site-1
-First webpage
+First Odin's webpage!
+HTML + CSS
